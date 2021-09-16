@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+<head>
+・・・
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+・・・
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+�E�E�E
+<style>
+  body {
+    color: #333;
+    background: #fff;
+  }
+  p { font-size: 13px; }
+</style>
+</head>
+<body>
+�E�E�E
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+�E�E�E
+</head>
+<body style="color: #333; background: #fff;">
+<p style="font-size: 13px;">
+�E�E�E
+</p>
+</body>
+</html>
+
+
+
+
+@import "style.css";
+@import url("style.css");
+@import "style.css" screen, print;
+
+
+
+
+font-size: calc(100vw / 35);
+margin: calc(1rem - 2px) calc(1rem - 1px);
+
+
+
+
+h1 { color: #333; }
+
+* { color: #333; }
+
+
+
+p.subtitle { color: #333; }
+
+ul#footnav { color: #333; }
+
+
+
+
+img[src$=".jpg"] { border: 3px solid #f00; }
+
+
+a:link { color: blue; }
+a:visited { color: purple; }
+a:hover { color: red; }
+a:active { color: yellow; }
+
+
+
+
+tr:nth-child(odd) { background: #ccc; }
+
+
+
+
+p {
+    font-size: 24pt !important;
+}
+
+
+#ff0000
+
+#f00
+
+
+
+rgb(255, 0, 0)
+
+
+
+rgba(255, 0, 0, 0.5)
+
+
+
+
+hsl(0, 100%, 50%)
+
+hsla(0, 100%, 50%, 0.5)
+
+body { color: #333; }
+
+h1 { opacity: 0.5; }
+
+
+
+
+
+body { background-color: #fff; }
+
+
+
+
+body { background-image: url(a.png), url(b.png), url(c.png); }
+
+body {
+    background-image: url(a.png), url(b.png), url(c.png);
+    background-repeat: no-repeat, repeat-x, repeat-y;
+}
+
+
+
+
+body {
+    background-image: url(books.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+
+body {
+    background-image: url(sky.jpg);
+    background-size: cover;
+}
+
+
+
+
+body {
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+
+
+
+
+body {
+    background: #ccc url(castle.jpg) bottom left / 100% auto no-repeat;
+    /* 背景色が #ccc（グレー）、背景画像はcastle.jpg、背景画像の位置は左下を基準、表示領域に対して幅は100％、高さはautoで表示、画像の繰り返しはなし */
+}
+
+
+
+
+body {
+    background: url(a.png) no-repeat, url(b.png) no-repeat, #ffffff url(c.png);
+    /* 一番上（手前）の背景画像はa.pngで繰り返しはなし、真ん中の背景画像はb.pngで繰り返しはなし、一番下（後ろ）の背景画像はc.pngで背景色は#ffffff（白） */
+}
+
+
+
+
+p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+@font-face {
+    font-family: mynaviFont;
+    src: url(http://example.com/fonts/mynaviRegular.woff);
+}
+p { font-family: mynaviFont, serif; }
+
+
+
+
+p {
+    font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", Helvetica, sans-serif;
+}
+
+
+
+
+p {
+    font: bold italic 13px/1.5 "メイリオ", "Meiryo", sans-serif;
+}
+
+
+
+
+p {
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background: #999;
+    border-radius: 10px;
+}
+
+
+
+
+#sample1 {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+#sample2 {
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+body { column-count: 3; }
+
+
+
+div { column-width: 28em; }
+
+
+
+body { columns: 2; }
+
+
+
+body {
+    column-count: 3;
+    column-gap: 1.2em;
+    column-rule-width: 2px;
+    column-rule-style: dotted;
+    column-rule-color: #ccc;
+}
+
+
+
+
+body {
+    column-count: 3;
+    column-gap: 1.2em;
+    column-rule-width: 2px;
+    column-rule-style: dotted;
+    column-rule-color: #ccc;
+}
+h2 {
+    column-span: all;
+    color: white;
+    background: black;
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>サンプル</title>
+    <style>
+    body, p { margin: 0; }
+    div { display: flex; }
+    p {
+        width: 150px;
+        height: 100px;
+        padding: 10px;
+        background: #ccc;
+    }
+    p:nth-child(2) { background: #999; }
+    </style>
+</head>
+<body>
+    <div>
+        <p>これは1つ目のp要素です。</p>
+        <p>これは2つ目のp要素です。</p>
+        <p>これは3つ目のp要素です。</p>
+    </div>
+</body>
+</html>
+
+
+
+
+div {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    background: #999;
+    transform: translate(200px, 100px) scale(1.5, 1.5) rotate(45deg);
+}
+
+
+
+transform-origin: top left;
+transform: translate(200px, 100px) scale(1.5, 1.5) rotate(45deg);
+
+
+
+
+#sample {
+    transition-property: transform, opacity;
+    transition-duration: 2s;
+}
+
+
+
+#sample {
+    transition-property: transform, opacity;
+    transition-duration: 2s, 5s;
+}
+
+
+
+
+li {
+    transition: background-color 3s;
+    background-color: silver;
+}
+li:hover {
+    background-color: red;
+}
+
+
+
+@keyframes ���O {
+  0% {
+    �v���p�e�B: �l;
+    �v���p�e�B: �l;
+    �E�E�E
+  }
+  ��% {
+    �v���p�e�B: �l;
+    �v���p�e�B: �l;
+    �E�E�E
+  }
+
+�E�E�E
+
+  ��% {
+    �v���p�e�B: �l;
+    �v���p�e�B: �l;
+    �E�E�E
+  }
+
+  100% {
+    �v���p�e�B: �l;
+    �v���p�e�B: �l;
+    �E�E�E
+  }
+}
+
+
+
+#sample:hover {
+    animation-name: jumping;
+    animation-duration: 10s;
+}
+
+
+
+background: linear-gradient(#ddd, #333);
+background: linear-gradient(to bottom, #ddd, #333);
+background: linear-gradient(180deg, #ddd, #333);
+background: linear-gradient(180deg, #ddd 0%, #333 100%);
+
+
+
+
+background: radial-gradient(#ddd, #333);
+background: radial-gradient(at center, #ddd, #333);
+background: radial-gradient(at 50% 50%, #ddd, #333);
+
+
+
+
+body {
+    counter-reset: chapter;
+}
+h1::before {
+    counter-increment: chapter;
+    content: "第" counter(chapter) "章 ";
+}
+
+
+
+
+
+
+
+

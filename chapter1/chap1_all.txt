@@ -1,0 +1,868 @@
+<br>
+<br />
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    ・・・
+    <title>文書タイトル</title>
+    ・・・
+    </head>
+    <body>
+
+    ・・・
+
+    </body>
+</html>
+
+
+
+<!--コメント-->
+
+
+<!--
+コメント
+-->
+
+
+<aside class="advertising large vertical">
+・・・
+</aside>
+
+
+
+<ul id="navlist">
+・・・
+</ul>
+
+
+<!DOCTYPE html>
+<html lang="ja">
+・・・
+</html>
+
+
+<ul>
+<li data-music-time="02m46s">HTML5試験レベル1のテーマ曲</li>
+<li data-music-time="03m05s">HTML5試験レベル2のテーマ曲</li>
+<li data-music-time="05m37s">アカデミック認定校のバラード</li>
+</ul>
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+・・・
+</head>
+<body>
+・・・
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<head>
+<title>会社概要 | マイナビ</title>
+</head>
+<body>
+・・・
+<h1>会社概要</h1>
+・・・
+</body>
+
+
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>meta要素の使用例</title>
+<meta name="author" content="大藤 幹">
+<meta name="description" content="meta要素のサンプルソースです。">
+<meta name="keywords" content="meta, メタデータ, プラグマディレクティブ">
+<meta http-equiv="refresh" content="10; URL=page2.html"> <!-- 10秒後にpage2.htmlに移動-->
+・・・
+</head>
+
+
+
+<head>
+・・・
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
+<link rel="alternate" href="en.html" hreflang="en" type="text/html" title="EnglishVersion">
+<link rel="alternate" href="fr.html" hreflang="fr" type="text/html" title="FrenchVersion">
+・・・
+</head>
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<title>マイナビブックス</title>
+<base href="http://www.mynavi.com/books/index.html">
+</head>
+<body>
+<p><a href="new.html">新刊情報</a></p>
+<!-- 上のリンクは「http://www.mynavi.com/books/new.html」となります -->
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <title> ・・・ </title>
+</head>
+<body>
+    <h1>見出しA</h1>
+    <h2>見出しB</h2>
+    <blockquote>
+        <h3>見出しC</h3>
+    </blockquote>
+    <h2>見出しD</h2>
+    <section>
+        <h3>見出しE</h3>
+    </section>
+</body>
+</html>
+
+
+<header>
+    <h1>見出し</h1>
+    <p>サブタイトル</p>
+</header>
+
+
+<header>
+    <h1>合格への道 III</h1>
+    <p>そして面接へ…</p>
+</header>
+
+
+<article>
+    <header>
+        <h1>レベル1認定試験に合格しました！</h1>
+        <p><time>2017-04-01 22:18:05</time></p>
+    </header>
+    <p>先日、夢の中にセマンくんが出てきたんです。</p>
+    <p>そしてガラガラのヘンな声で、私にこう言ったんです。</p>
+    <p>「全身の70%以上をオレンジ色にして受験したら合格するがね！」</p>
+    ・・・
+    <section>
+        <h2>コメント</h2>
+        ・・・
+    </section>
+</article>
+
+
+<body>
+    <h1>合格のための心得</h1>
+    <section>
+        <h2>その1：本書を購入する</h2>
+        <p>これを読んでいるあなたはきっと大丈夫です。</p>
+        <p>選択のセンスがありますので、五択問題も心配無用！</p>
+    </section>
+    <section>
+        <h2>その2：最後まで読む</h2>
+        <p>本書の内容はおおむね重要な順になっています。</p>
+        <p>とにかく読めるところまで読んでおくと合格に近づけます！</p>
+    </section>
+</body>
+
+
+<aside>
+    <h3>広告</h3>
+    <a href="http://html5exam.jp/">
+        <section>
+            <h4>HTML5プロフェッショナル認定試験</h4>
+            <p>取得したい資格No.1</p>
+            <p>多くの企業が推進する次世代Web言語の認定資格</p>
+        </section>
+    </a>
+    <a href="https://book.mynavi.jp/">
+        <section>
+            <h4>マイナビBOOKS</h4>
+            <p>よくわかる教科書シリーズ</p>
+            <p>好評発売中！</p>
+        </section>
+    </a>
+</aside>
+
+
+<body>
+
+<header>
+    <h1>株式会社◯◯◯</h1>
+    <ul>
+        <li><a href="#">サイトマップ</a></li>
+        <li><a href="#">Global</a></li>
+    </ul>
+    <nav>
+        <ul>
+            <li><a href="#">ホーム</a></li>
+            <li><a href="#">お知らせ</a></li>
+            <li><a href="#">製品情報</a></li>
+            <li><a href="#">会社概要</a></li>
+            <li><a href="#">お問い合わせ</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    ～ メインコンテンツ ～
+</main>
+
+<footer>
+    <ul>
+        <li><a href="#">プライバシーポリシー</a></li>
+        <li><a href="#">利用規約</a></li>
+    </ul>
+    <p>
+        <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+    </p>
+</footer>
+
+</body>
+
+
+<body>
+<header>
+    <h1>株式会社◯◯◯</h1>
+    <nav>
+        <ul>
+            <li><a href="#">ホーム</a></li>
+            <li><a href="#">お知らせ</a></li>
+            <li><a href="#">製品情報</a></li>
+            <li><a href="#">会社概要</a></li>
+            <li><a href="#">お問い合わせ</a></li>
+        </ul>
+    </nav>
+</header>
+・・・
+
+
+・・・
+<footer>
+    <ul>
+        <li><a href="#">プライバシーポリシー</a></li>
+        <li><a href="#">利用規約</a></li>
+    </ul>
+    <p>
+        <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+    </p>
+</footer>
+</body>
+</html>
+
+
+<article>
+    <footer><a href="#">前ページ</a></footer>
+    <h1>レベル1認定試験に合格しました！</h1>
+    <p>本日は、ブログでちょっとだけ自慢しちゃいますよ。</p>
+    <p> ・・・ </p>
+    <footer><a href="#">前ページ</a></footer>
+</article>
+
+
+
+<body>
+
+<header>
+    <h1>◯◯◯スクール</h1>
+    <nav>
+        <ul>
+            <li><a href="#">ホーム</a></li>
+            <li><a href="#">コース紹介</a></li>
+            <li><a href="#">会社概要</a></li>
+            <li><a href="#">お問い合わせ</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <article>
+        <header>
+            <h1>会社概要</h1>
+            <p>日本でトップクラスの合格実績！</p>
+        </header>
+        <section>
+            <h2>合格率100%！（当社調べ）</h2>
+            <p>嘘だと思ったら食べてください。</p>
+        </section>
+        ・・・
+    </article>
+</main>
+    
+<footer>
+    <p>
+        <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+    </p>
+</footer>
+
+</body>
+
+
+<footer>
+  <address>
+    お問い合わせは下記メールアドレスまでお願いします。<br>
+    <a href="mailto:info@example.com">info@example.com</a>
+  </address>
+  <p>
+    <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+  </p>
+</footer>
+</body>
+</html>
+
+
+<h1>
+    合格への道<br>
+    <span class="subtitle">こうして僕は三日でおぼえた！</span>
+</h1>
+
+
+<nav>
+  <ul>
+    <li> <a href="/">ホーム</a> </li>
+    ・・・
+  </ul>
+</nav>
+
+
+
+<aside>
+    <h3>広告</h3>
+    <a href="http://html5exam.jp/">
+        <section>
+            <h4>HTML5プロフェッショナル認定試験</h4>
+            <p>取得したい資格No.1</p>
+            <p>多くの企業が推進する次世代Web言語の認定資格</p>
+        </section>
+    </a>
+    <a href="https://book.mynavi.jp/">
+        <section>
+            <h4>マイナビBOOKS</h4>
+            <p>よくわかる教科書シリーズ</p>
+            <p>好評発売中！</p>
+        </section>
+    </a>
+</aside>
+</html>
+
+
+<h1>第1章 <strong>合格への道！</strong></h1>
+
+<p>
+<strong>【警告】</strong>
+札幌では、たとえ<strong>中央区であっても<strong>ヒグマ</strong>が出没</strong>することがあります。
+</p>
+
+
+<blockquote>
+<p>
+　メロスは激怒した。必ず、かの邪智暴虐の王を除かなければならぬと決意した。メロスには政治がわからぬ。メロスは、村の牧人である。笛を吹き、羊と遊んで暮して来た。
+</p>
+<footer>
+― <cite>太宰治</cite>（1975） <cite>『走れメロス』</cite>.
+</footer>
+</blockquote>
+
+
+<p>
+僕にはぜんぜん記憶がないのだけれど、<cite>ヘルマン・ヘッセ</cite>の<q>そうか、そうか、つまり君はそんな
+やつなんだな</q>って意外とみんなおぼえてるみたいですね。
+</p>
+
+
+<p>
+<cite>水曜どうでしょう</cite>の名セリフと言えば、個人的には<q>ロビンソンもう帰ろうよ</q>だな。
+</p>
+
+
+
+<blockquote>
+<p>
+<mark>メロスは激怒した。</mark>必ず、かの邪智暴虐の王を除かなければならぬと決意した。メロスには政治がわからぬ。メロスは、村の牧人である。笛を吹き、羊と遊んで暮して来た。
+</p>
+</blockquote>
+
+<p>
+冒頭の文章は、日本人なら誰もが知っている有名な一節です。この文章は・・・
+</p>
+
+
+・・・
+<footer>
+    <ul>
+        <li><a href="#">プライバシーポリシー</a></li>
+        <li><a href="#">利用規約</a></li>
+    </ul>
+    <p>
+        <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+    </p>
+</footer>
+</body>
+</html>
+
+
+<p>
+大藤園より<data value="JAN:4912345678903">こ～い合格茶</data>が発売された。
+</p>
+
+
+<p>
+<time datetime="2017-01-17">昨日</time>の試験はマジで疲れました。
+明日は<time>07:30</time>に集合です。
+</p>
+</html>
+
+
+<p>
+合格したら<abbr title="結婚活動">婚活</abbr>も頑張るぞ！
+</p>
+</html>
+
+
+<p>
+<dfn>HTML5プロフェッショナル認定資格</dfn>とは、LPI-JapanがHTML5・CSS3・Javascriptなど最新のマークアップに関する技術力と知識を、公平かつ厳正に、中立的な立場で認定する認定資格です。
+</p>
+
+
+<h1>第3章 <strong>HTML5で変更された要素</strong></h1>
+<p>
+<b class="lede">新しく追加された要素の次に重要なのは、意味や役割が変更された要素です。本章ではHTML5で変更された要素を重要な順に解説していきます。</b>
+</p>
+
+
+<p>エゾアカガエルの学名は<i class="taxonomy">Rana pirica</i>です。</p>
+
+
+<p>本日限りの大特価！　<s>2,800円</s> 980円！</p>
+
+
+
+<p>Hello, <u class="spelling">warld!</u></p>
+
+
+
+<ul>
+    <li>ユーザー名 <bdi>知子</bdi>: 7 posts.
+    <li>ユーザー名 <bdi>ミキティ</bdi>: 10 posts.
+    <li>ユーザー名 <bdi> ???? </bdi>: 1 posts.
+</ul>
+</html>
+
+
+<pre><code class="language-css">
+h1 {
+text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+}</code></pre>
+
+
+
+
+<pre>整形済みテキスト</pre>
+
+<pre>
+整形済みテキスト</pre>
+
+
+
+<p>
+HTMLでは、ソースコードは<code>code</code>要素としてマークアップします。
+</p>
+
+
+
+<p>
+次に、<kbd>F3</kbd>キーを押してください。
+</p>
+
+
+<pre><samp>
+“Macintosh HD”のアクセス権を検証中
+アクセス権データベースを読み出しています。
+アクセス権データベースの読み出しには数分かかる場合があります。
+</samp></pre>
+
+
+<p>
+CSS3には :nth-child(<var>a</var>n+<var>b</var>) という書式のセレクタがあって、
+<var>a</var>と<var>b</var>のところには任意の整数が指定できる。
+</p>
+
+
+<p>
+<var>E</var>=<var>m</var><var>c</var><sup>2</sup>
+</p>
+
+
+
+<p>
+二酸化炭素はCO<sub>2</sub>です。
+</p>
+
+
+<p>
+〒012-3456<br>
+北海道札幌市中央区牧志1-2-3<br>
+札幌ニフェーデービル7F
+</p>
+
+
+
+<p>
+What does super<wbr>califragilistic<wbr>expiali<wbr>docious mean?
+</p>
+
+
+
+<h1>To Do リスト</h1>
+<ul>
+    <li>HTML5の本を最後まで読む</li>
+    <li><ins>LPI-IDを取得する</ins></li>
+    <li><ins>HTML5レベル1試験の受験予約</ins></li>
+    <li><ins datetime="2017-12-24">HTML5レベル1試験受験！</ins></li>
+</ul>
+
+
+
+
+<h1>To Do リスト</h1>
+<ul>
+    <li><del>HTML5の本を最後まで読む</del></li>
+    <li><del datetime="2017-04-01T20:30+09:00">LPI-IDを取得する</del></li>
+    <li>HTML5レベル1試験の受験予約</li>
+    <li>HTML5レベル1試験受験！</li>
+</ul>
+
+
+
+<p>沖縄で行ったことのある離島は次の通りです。</p>
+<ul>
+    <li>ナガンヌ島</li>
+    <li>久米島</li>
+    <li>竹富島</li>
+    <li>黒島</li>
+</ul>
+
+
+
+<p>個人的に沖縄で好きな島は次の通りです（好きな順）。</p>
+<ol>
+    <li>黒島</li>
+    <li>久米島</li>
+    <li>ナガンヌ島</li>
+</ol>
+
+
+
+<ul>
+    <li>黒島
+    <li>久米島
+    <li>ナガンヌ島
+</ul>
+
+
+
+<dl>
+<dt><dfn>HTML5プロフェッショナル認定資格</dfn></dt>
+<dd>
+HTML5・CSS3・JavaScriptといった最新技術に関する知識をLPI-Japanが中立的な立場で認定する認定資格。
+</dd>
+</dl>
+
+
+
+<article>
+    <h1>よくあるご質問</h1>
+    <dl>
+        <dt>どのくらいの正答率で合格できますか？</dt>
+        <dd>7割程度の正答率で合格できる設定となっています。</dd>
+        <dt>他の資格試験との違いは何ですか？</dt>
+        <dd>知識よりも、現場で必要となる能力に重点が置かれています。</dd>
+        <dt>回答パターンにはどのようなものがありますか？</dt>
+        <dd>「単一選択」「複数選択」「記述式」があります。</dd>
+    </dl>
+</article>
+
+
+
+<ruby>漢字<rt>かんじ</rt></ruby>
+
+
+
+<ruby>漢字<rt>かんじ</ruby>
+
+
+
+<ruby><rb>漢字</rb><rt>かんじ</rt></ruby>
+<ruby><rb>漢字<rt>かんじ</ruby>
+<ruby><rb>漢</rb><rb>字</rb><rt>かん</rt><rt>じ</rt></ruby>
+<ruby>漢<rb>字<rt>かん<rt>じ</ruby>
+
+
+
+<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>
+<ruby>漢字<rp>（<rt>かんじ<rp>）</ruby>
+<ruby><rb>漢</rb><rb>字</rb><rp>（</rp><rt>かん</rt><rt>じ</rt><rp>）</rp></ruby>
+<ruby>漢<rb>字<rp>（<rt>かん<rt>じ<rp>）</ruby>
+
+
+
+<ruby>
+    <rb>漢</rb><rb>字</rb>
+    <rt>かん</rt><rt>じ</rt>
+    <rtc><rt>kan</rt><rt>ji</rt></rtc>
+</ruby>
+
+
+
+<img src="logo.png" alt="株式会社マイナビ" width="100" height="70">
+
+
+<img src="logo.png" srcset="logo200.png 2x, logo300.png 3x" alt="株式会社マイナビ" width="100" height="70">
+
+
+
+<img sizes="100vw" srcset="small.jpg 400w, medium.jpg 800w, large.jpg 1600w" src="small.jpg" alt="">
+
+
+
+<img sizes="(max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 60px)" srcset="small.jpg 400w, medium.jpg 800w, large.jpg 1600w" src="small.jpg" alt="">
+
+
+
+<picture>
+    <source media="(min-width: 50em)" srcset="large.jpg">
+    <source media="(min-width: 30em)" srcset="medium.jpg">
+    <img src="small.jpg" alt="">
+</picture>
+
+
+
+<picture>
+    <source media="(max-width: 500px)" srcset="phone.jpg, phone-retina.jpg 2x">
+    <img src="pc.jpg" srcset="pc-retina.jpg 2x" alt="">
+</picture>
+
+
+
+<picture>
+    <source srcset="pic.apng" type="image/apng">
+    <source srcset="pic.webp" type="image/webp">
+    <img src="pic.jpg" alt="">
+</picture>
+
+
+
+<video controls>
+    <source src='trip.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+    <source src='trip.ogv' type='video/ogg; codecs="theora, vorbis"'>
+    �E�E�E
+</video>
+
+
+
+<video src="trip.mp4" controls width="640" height="360">
+    <p><a href="trip.mp4">動画ファイルをダウンロード</a></p>
+</video>
+
+
+
+<audio src="song4u.mp3" controls>
+    <p><a href="song4u.mp3">音声ファイルをダウンロード</a></p>
+</audio>
+
+
+
+<video src="trip.ogv" controls>
+    <track kind="subtitles" src="trip.ja.vtt" srclang="ja" label="日本語">
+    <track kind="subtitles" src="trip.en.vtt" srclang="en" label="English">
+</video>
+
+
+
+<embed src="game.swf" type="application/x-shockwave-flash" width="500" height="500" quality="high">
+
+
+
+<img src="map.png" usemap="#navbar" alt="ナビゲーションバー">
+…
+<map name="navbar">
+<area href="prev.html" alt="前ページ" shape="rect" coords="100,10,170,30">
+<area href="next.html" alt="次ページ" shape="rect" coords="200,10,270,30">
+</map>
+
+
+
+<p>�f�B�X�N�g�p�ʁF
+<meter min="0" max="300000000" value="230000000">
+�e�ʁF300,000,000 �o�C�g<br>
+�g�p�̈�F230,000,000 �o�C�g
+</meter>
+</p>
+
+
+
+<p>処理の進行状況：
+<progress id="pbar" value="0" max="100"><span>0</span>%</progress>
+</p>
+
+
+
+<p>
+    <label>
+        取得したい資格：
+        <input type="text" name="c" list="certifications">
+        <datalist id="certifications">
+            <option value="HTML5プロフェッショナル認定試験">
+            <option value="ウェブデザイン技能検定">
+            ・・・
+        </datalist>
+    </label>
+</p>
+
+
+
+<p>
+    <label>
+        取得したい資格：
+        <input type="text" name="c1" list="certifications">
+    </label>
+    <datalist id="certifications">
+        <br>
+        <label>
+            ※上の入力欄に入力するか、次のメニューから選択してください：
+            <br>
+            <select name="c2">
+                <option value="">（未選択）</option>
+                <option>HTML5プロフェッショナル認定試験</option>
+                <option>ウェブデザイン技能検定</option>
+            </select>
+        </label>
+    </datalist>
+</p>
+
+
+
+<form onsubmit="return false" oninput="sum.value=a.valueAsNumber+b.valueAsNumber">
+    <input name="a" type="number"> +
+    <input name="b" type="number"> =
+    <output for="a b" name="sum"></output>
+</form>
+
+
+
+<form action="keysample.cgi" method="post">
+    <p><keygen name="pubkey"></p>
+    ・・・
+    <p><input type="submit" value="送信"></p>
+</form>
+
+
+
+<label><input type="checkbox" name="agree"> 同意する</label>
+
+
+
+<input type="checkbox" name="agree" id="ag">
+<label for="ag">同意する</label>
+
+
+
+<fieldset>
+    <legend>個人情報</legend>
+    <p>
+        <label>
+            名前：<br>
+            <input type="text" name="nm">
+        </label>
+    </p>
+    <p>
+        <label>
+            住所：<br>
+            <textarea name="ad" rows="3"></textarea>
+        </label>
+    </p>
+</fieldset>
+
+
+
+
+<p>
+CSSを使用すると、影を表示させることができます（<a href="#fig01">図版01</a>）。
+</p>
+<figure id="fig01">
+<figcaption>図版01：CSSでボックスに影を表示させる例</figcaption>
+<pre><code>.sample {
+    box-shadow: 3px 3px 10px #999;
+}</code></pre>
+</figure>
+
+
+
+<figure>
+    <figcaption>札幌の気候</figcaption>
+    <img src="temp.png" alt="各月の気温のグラフ：1月の平均気温-3.6℃、2月の ～ ">
+    <table border="1">
+        <caption>：各月の降水量：単位mm</caption>
+        ・・・
+    </table>
+</figure>
+</html>
+
+
+
+<hr>
+<details>
+    <summary>見出し</summary>
+    <p>詳細情報</p>
+    <p>詳細情報</p>
+</details>
+<hr>
+
+
+
+<img src="pic.jpg" alt="写真" contextmenu="ctx-menu01">
+<menu id="ctx-menu01">
+    <menuitem label="項目1" onclick="～">
+    <menuitem label="項目2" onclick="～">
+    <menu label="サブメニュー">
+        <menuitem label="サブ項目1" onclick="～">
+        <menuitem label="サブ項目2" onclick="～">
+    </menu>
+</menu>
+
+
+
+<p>
+  「やっぱり、あのオレンジの本を選んでよかったね」と言って知子は微笑んだ。
+  僕はもう少し彼女と話していたかったのだが、終電の時間がせまっていたので彼女は先に店を出た。僕にとっては
+  二つの意味で喜ばしい夜だった。レベル１を両方ともクリアしたのだ。
+</p>
+<hr>
+<p>
+  翌朝、目を覚ますとまぶしいほどの光の筋がカーテンの隙間から部屋に入り込んでいた。
+    ・・・
+</p>
+
+
+
+<table border="1">
+    <tbody>
+        <template id="tb01">
+            <tr>
+                <td></td><td></td><td></td><td></td>
+            </tr>
+        </template>
+    </tbody>
+</table>
+
+
+
+<canvas width="800" height="400"></canvas>
+
+
+
+
