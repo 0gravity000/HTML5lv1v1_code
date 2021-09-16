@@ -1,0 +1,5 @@
+<video src="trip.ogv" controls>
+    <track kind="subtitles" src="trip.ja.vtt" srclang="ja" label="日本語">
+    <track kind="subtitles" src="trip.en.vtt" srclang="en" label="English">
+</video>
+

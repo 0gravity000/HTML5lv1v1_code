@@ -1,0 +1,4 @@
+.img { background-image: url(path/to/img.png); }
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
+  .img { background-image: url(path/to/img-2x.png); }
+}

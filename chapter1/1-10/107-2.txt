@@ -1,0 +1,2 @@
+﻿<input type="checkbox" name="agree" id="ag">
+<label for="ag">同意する</label>

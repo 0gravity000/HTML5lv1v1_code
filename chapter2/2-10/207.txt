@@ -1,0 +1,4 @@
+#sample:hover {
+    animation-name: jumping;
+    animation-duration: 10s;
+}

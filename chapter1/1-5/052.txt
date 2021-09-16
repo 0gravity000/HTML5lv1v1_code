@@ -1,0 +1,5 @@
+<h1>
+    合格への道<br>
+    <span class="subtitle">こうして僕は三日でおぼえた！</span>
+</h1>
+

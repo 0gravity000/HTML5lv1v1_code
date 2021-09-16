@@ -1,0 +1,7 @@
+<img src="map.png" usemap="#navbar" alt="ナビゲーションバー">
+…
+<map name="navbar">
+<area href="prev.html" alt="前ページ" shape="rect" coords="100,10,170,30">
+<area href="next.html" alt="次ページ" shape="rect" coords="200,10,270,30">
+</map>
+

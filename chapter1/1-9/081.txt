@@ -1,0 +1,2 @@
+<img sizes="100vw" srcset="small.jpg 400w, medium.jpg 800w, large.jpg 1600w" src="small.jpg" alt="">
+

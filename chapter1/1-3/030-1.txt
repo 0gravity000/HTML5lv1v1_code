@@ -1,0 +1,3 @@
+﻿<aside class="advertising large vertical">
+・・・
+</aside>

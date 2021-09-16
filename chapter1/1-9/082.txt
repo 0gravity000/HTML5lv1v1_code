@@ -1,0 +1,2 @@
+<img sizes="(max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 60px)" srcset="small.jpg 400w, medium.jpg 800w, large.jpg 1600w" src="small.jpg" alt="">
+

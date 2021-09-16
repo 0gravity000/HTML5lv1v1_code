@@ -1,0 +1,5 @@
+<p>
+CSS3には :nth-child(<var>a</var>n+<var>b</var>) という書式のセレクタがあって、
+<var>a</var>と<var>b</var>のところには任意の整数が指定できる。
+</p>
+

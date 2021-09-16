@@ -1,0 +1,6 @@
+<picture>
+    <source media="(min-width: 50em)" srcset="large.jpg">
+    <source media="(min-width: 30em)" srcset="medium.jpg">
+    <img src="small.jpg" alt="">
+</picture>
+

@@ -1,0 +1,35 @@
+<body>
+
+<header>
+    <h1>◯◯◯スクール</h1>
+    <nav>
+        <ul>
+            <li><a href="#">ホーム</a></li>
+            <li><a href="#">コース紹介</a></li>
+            <li><a href="#">会社概要</a></li>
+            <li><a href="#">お問い合わせ</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <article>
+        <header>
+            <h1>会社概要</h1>
+            <p>日本でトップクラスの合格実績！</p>
+        </header>
+        <section>
+            <h2>合格率100%！（当社調べ）</h2>
+            <p>嘘だと思ったら食べてください。</p>
+        </section>
+        ・・・
+    </article>
+</main>
+    
+<footer>
+    <p>
+        <small>Copyright &copy; 2017 ◯◯◯. All rights reserved.</small>
+    </p>
+</footer>
+
+</body>

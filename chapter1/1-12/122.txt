@@ -1,0 +1,10 @@
+<table border="1">
+    <tbody>
+        <template id="tb01">
+            <tr>
+                <td></td><td></td><td></td><td></td>
+            </tr>
+        </template>
+    </tbody>
+</table>
+

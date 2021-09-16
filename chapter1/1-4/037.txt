@@ -1,0 +1,10 @@
+﻿<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>meta要素の使用例</title>
+<meta name="author" content="大藤 幹">
+<meta name="description" content="meta要素のサンプルソースです。">
+<meta name="keywords" content="meta, メタデータ, プラグマディレクティブ">
+<meta http-equiv="refresh" content="10; URL=page2.html"> <!-- 10秒後にpage2.htmlに移動-->
+・・・
+</head>

@@ -1,0 +1,4 @@
+body {
+    background: url(a.png) no-repeat, url(b.png) no-repeat, #ffffff url(c.png);
+    /* 一番上（手前）の背景画像はa.pngで繰り返しはなし、真ん中の背景画像はb.pngで繰り返しはなし、一番下（後ろ）の背景画像はc.pngで背景色は#ffffff（白） */
+}

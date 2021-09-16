@@ -1,0 +1,8 @@
+<h1>To Do リスト</h1>
+<ul>
+    <li>HTML5の本を最後まで読む</li>
+    <li><ins>LPI-IDを取得する</ins></li>
+    <li><ins>HTML5レベル1試験の受験予約</ins></li>
+    <li><ins datetime="2017-12-24">HTML5レベル1試験受験！</ins></li>
+</ul>
+

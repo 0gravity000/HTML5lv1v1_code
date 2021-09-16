@@ -1,0 +1,4 @@
+<p>処理の進行状況：
+<progress id="pbar" value="0" max="100"><span>0</span>%</progress>
+</p>
+

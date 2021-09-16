@@ -1,0 +1,8 @@
+<div itemscope itemtype="http://schema.org/Movie">
+  <h1 itemprop="name">Pirates of the Caribbean: On Stranger Tide s (2011)</h1>
+  <span itemprop="description">Jack Sparrow and Barbossa embark on a quest to find the
+elusive fountain of youth, only to discover that Blackbeard an d his daughter are
+after it too.</span>
+  Director: <div itemprop="director" itemscope itemtype="http://schema.org/Person">
+  <span itemprop="name">Rob Marshall</span> </div>
+</div>

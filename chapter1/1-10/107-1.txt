@@ -1,0 +1,1 @@
+﻿<label><input type="checkbox" name="agree"> 同意する</label>

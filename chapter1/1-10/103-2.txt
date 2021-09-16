@@ -1,0 +1,12 @@
+<p>
+    <label>
+        取得したい資格：
+        <input type="text" name="c" list="certifications">
+        <datalist id="certifications">
+            <option value="HTML5プロフェッショナル認定試験">
+            <option value="ウェブデザイン技能検定">
+            ・・・
+        </datalist>
+    </label>
+</p>
+

@@ -1,0 +1,6 @@
+body { background-image: url(a.png), url(b.png), url(c.png); }
+
+body {
+    background-image: url(a.png), url(b.png), url(c.png);
+    background-repeat: no-repeat, repeat-x, repeat-y;
+}

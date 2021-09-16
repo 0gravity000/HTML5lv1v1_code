@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>サンプル</title>
+    <style>
+    body, p { margin: 0; }
+    div { display: flex; }
+    p {
+        width: 150px;
+        height: 100px;
+        padding: 10px;
+        background: #ccc;
+    }
+    p:nth-child(2) { background: #999; }
+    </style>
+</head>
+<body>
+    <div>
+        <p>これは1つ目のp要素です。</p>
+        <p>これは2つ目のp要素です。</p>
+        <p>これは3つ目のp要素です。</p>
+    </div>
+</body>
+</html>

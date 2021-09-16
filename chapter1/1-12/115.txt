@@ -1,0 +1,10 @@
+<p>
+CSSを使用すると、影を表示させることができます（<a href="#fig01">図版01</a>）。
+</p>
+<figure id="fig01">
+<figcaption>図版01：CSSでボックスに影を表示させる例</figcaption>
+<pre><code>.sample {
+    box-shadow: 3px 3px 10px #999;
+}</code></pre>
+</figure>
+

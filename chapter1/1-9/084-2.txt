@@ -1,0 +1,6 @@
+<picture>
+    <source srcset="pic.apng" type="image/apng">
+    <source srcset="pic.webp" type="image/webp">
+    <img src="pic.jpg" alt="">
+</picture>
+

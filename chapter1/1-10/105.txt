@@ -1,0 +1,6 @@
+﻿<form onsubmit="return false" oninput="sum.value=a.valueAsNumber+b.valueAsNumber">
+    <input name="a" type="number"> +
+    <input name="b" type="number"> =
+    <output for="a b" name="sum"></output>
+</form>
+

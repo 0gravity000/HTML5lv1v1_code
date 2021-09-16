@@ -1,0 +1,6 @@
+﻿<form action="keysample.cgi" method="post">
+    <p><keygen name="pubkey"></p>
+    ・・・
+    <p><input type="submit" value="送信"></p>
+</form>
+

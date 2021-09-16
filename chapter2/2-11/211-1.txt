@@ -1,0 +1,4 @@
+﻿background: linear-gradient(#ddd, #333);
+background: linear-gradient(to bottom, #ddd, #333);
+background: linear-gradient(180deg, #ddd, #333);
+background: linear-gradient(180deg, #ddd 0%, #333 100%);

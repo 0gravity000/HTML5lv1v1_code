@@ -1,0 +1,6 @@
+<ruby>
+    <rb>漢</rb><rb>字</rb>
+    <rt>かん</rt><rt>じ</rt>
+    <rtc><rt>kan</rt><rt>ji</rt></rtc>
+</ruby>
+

@@ -1,0 +1,10 @@
+<img src="pic.jpg" alt="写真" contextmenu="ctx-menu01">
+<menu id="ctx-menu01">
+    <menuitem label="項目1" onclick="～">
+    <menuitem label="項目2" onclick="～">
+    <menu label="サブメニュー">
+        <menuitem label="サブ項目1" onclick="～">
+        <menuitem label="サブ項目2" onclick="～">
+    </menu>
+</menu>
+

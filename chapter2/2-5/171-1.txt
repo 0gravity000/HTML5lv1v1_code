@@ -1,0 +1,4 @@
+body {
+    background: #ccc url(castle.jpg) bottom left / 100% auto no-repeat;
+    /* 背景色が #ccc（グレー）、背景画像はcastle.jpg、背景画像の位置は左下を基準、表示領域に対して幅は100％、高さはautoで表示、画像の繰り返しはなし */
+}

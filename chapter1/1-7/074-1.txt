@@ -1,0 +1,7 @@
+<dl>
+<dt><dfn>HTML5プロフェッショナル認定資格</dfn></dt>
+<dd>
+HTML5・CSS3・JavaScriptといった最新技術に関する知識をLPI-Japanが中立的な立場で認定する認定資格。
+</dd>
+</dl>
+

@@ -1,0 +1,3 @@
+<script src="a.js" async></script>
+
+<script src="d.js" defer></script>

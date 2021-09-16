@@ -1,0 +1,8 @@
+﻿<head>
+・・・
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
+<link rel="alternate" href="en.html" hreflang="en" type="text/html" title="EnglishVersion">
+<link rel="alternate" href="fr.html" hreflang="fr" type="text/html" title="FrenchVersion">
+・・・
+</head>

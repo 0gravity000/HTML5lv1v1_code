@@ -1,0 +1,6 @@
+<ul>
+    <li>ユーザー名 <bdi>知子</bdi>: 7 posts.
+    <li>ユーザー名 <bdi>ミキティ</bdi>: 10 posts.
+    <li>ユーザー名 <bdi> ???? </bdi>: 1 posts.
+</ul>
+</html>

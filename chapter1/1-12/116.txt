@@ -1,0 +1,9 @@
+<figure>
+    <figcaption>札幌の気候</figcaption>
+    <img src="temp.png" alt="各月の気温のグラフ：1月の平均気温-3.6℃、2月の ～ ">
+    <table border="1">
+        <caption>：各月の降水量：単位mm</caption>
+        ・・・
+    </table>
+</figure>
+</html>

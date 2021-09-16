@@ -1,0 +1,11 @@
+.icon {
+  background-image: url(http://path/to/file/icon.png);
+  width: 30px;
+  height: 30px;
+}
+.icon1 { /* 1つ目のアイコン */
+  background-position: 0 0px;
+}
+.icon2 { /* 2つ目のアイコン */
+  background-position: 0 -30px;
+}

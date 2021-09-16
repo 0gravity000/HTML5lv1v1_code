@@ -1,0 +1,4 @@
+<video src="trip.mp4" controls width="640" height="360">
+    <p><a href="trip.mp4">動画ファイルをダウンロード</a></p>
+</video>
+

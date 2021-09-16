@@ -1,0 +1,3 @@
+p.subtitle { color: #333; }
+
+ul#footnav { color: #333; }

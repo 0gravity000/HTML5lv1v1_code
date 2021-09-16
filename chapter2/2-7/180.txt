@@ -1,0 +1,3 @@
+p {
+    font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", Helvetica, sans-serif;
+}

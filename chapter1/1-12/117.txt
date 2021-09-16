@@ -1,0 +1,7 @@
+<hr>
+<details>
+    <summary>見出し</summary>
+    <p>詳細情報</p>
+    <p>詳細情報</p>
+</details>
+<hr>

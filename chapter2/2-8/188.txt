@@ -1,0 +1,7 @@
+﻿p {
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background: #999;
+    border-radius: 10px;
+}

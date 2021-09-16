@@ -1,0 +1,7 @@
+body {
+    column-count: 3;
+    column-gap: 1.2em;
+    column-rule-width: 2px;
+    column-rule-style: dotted;
+    column-rule-color: #ccc;
+}

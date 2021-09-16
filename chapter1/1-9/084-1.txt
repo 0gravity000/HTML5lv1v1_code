@@ -1,0 +1,5 @@
+<picture>
+    <source media="(max-width: 500px)" srcset="phone.jpg, phone-retina.jpg 2x">
+    <img src="pc.jpg" srcset="pc-retina.jpg 2x" alt="">
+</picture>
+

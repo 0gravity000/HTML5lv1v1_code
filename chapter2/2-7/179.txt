@@ -1,0 +1,5 @@
+@font-face {
+    font-family: mynaviFont;
+    src: url(http://example.com/fonts/mynaviRegular.woff);
+}
+p { font-family: mynaviFont, serif; }

@@ -1,0 +1,2 @@
+font-size: calc(100vw / 35);
+margin: calc(1rem - 2px) calc(1rem - 1px);

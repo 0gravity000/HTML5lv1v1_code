@@ -1,0 +1,19 @@
+﻿<p>
+    <label>
+        取得したい資格：
+        <input type="text" name="c1" list="certifications">
+    </label>
+    <datalist id="certifications">
+        <br>
+        <label>
+            ※上の入力欄に入力するか、次のメニューから選択してください：
+            <br>
+            <select name="c2">
+                <option value="">（未選択）</option>
+                <option>HTML5プロフェッショナル認定試験</option>
+                <option>ウェブデザイン技能検定</option>
+            </select>
+        </label>
+    </datalist>
+</p>
+

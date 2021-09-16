@@ -1,0 +1,8 @@
+<article>
+    <footer><a href="#">前ページ</a></footer>
+    <h1>レベル1認定試験に合格しました！</h1>
+    <p>本日は、ブログでちょっとだけ自慢しちゃいますよ。</p>
+    <p> ・・・ </p>
+    <footer><a href="#">前ページ</a></footer>
+</article>
+

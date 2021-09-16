@@ -1,0 +1,1 @@
+﻿div { column-width: 28em; }

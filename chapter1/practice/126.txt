@@ -1,0 +1,6 @@
+<h1>見出しA</h1>
+<h2>見出しB</h2>
+<blockquote><h3>見出しC</h3></blockquote>
+<h2>見出しD</h2>
+<section><h3>見出しE</h3></section>
+<figure><h2>見出しF</h2></figure>

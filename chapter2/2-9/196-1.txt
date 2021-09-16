@@ -1,0 +1,1 @@
+body { columns: 2; }
